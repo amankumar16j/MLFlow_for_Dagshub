@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow/mlruns/0/7d55e3ac1b3a4e158b3751c51ed7a50f/artifacts
+end_time: 1733591032944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d55e3ac1b3a4e158b3751c51ed7a50f
+run_name: vaunted-panda-670
+run_uuid: 7d55e3ac1b3a4e158b3751c51ed7a50f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733591013801
+status: 3
+tags: []
+user_id: MY PC

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow/mlruns/0/7d408c6b60a34ee1af0cfcad6735666b/artifacts
+end_time: 1733591165376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d408c6b60a34ee1af0cfcad6735666b
+run_name: bedecked-sheep-980
+run_uuid: 7d408c6b60a34ee1af0cfcad6735666b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733591159537
+status: 3
+tags: []
+user_id: MY PC

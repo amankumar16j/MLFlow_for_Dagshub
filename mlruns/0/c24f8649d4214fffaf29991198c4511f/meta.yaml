@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow/mlruns/0/c24f8649d4214fffaf29991198c4511f/artifacts
+end_time: 1733591190230
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c24f8649d4214fffaf29991198c4511f
+run_name: dapper-mule-284
+run_uuid: c24f8649d4214fffaf29991198c4511f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733591184450
+status: 3
+tags: []
+user_id: MY PC
